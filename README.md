@@ -7,8 +7,8 @@
 Run the following commands to create your app based on rag-mongo template:
 
 ```
-pip install lanchain-cli
-pip insall openai
+pip install langchain-cli
+pip install openai
 langchain app new <my-app-name> --package rag-mongo
 ```
 
